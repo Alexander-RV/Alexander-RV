@@ -2,6 +2,8 @@
 
 ## Java Backend Developer | Spring Boot Developer
 
+Building scalable backend solutions with Java and Spring Boot. Passionate about clean architecture and continuous learning.
+
 🇨🇴 Medellín, Colombia
 
 🇺🇸 English B2
