@@ -4,9 +4,10 @@
 
 Building scalable backend solutions with Java and Spring Boot. Passionate about clean architecture and continuous learning.
 
-🇨🇴 Medellín, Colombia
 
-🇺🇸 English B2
+📍 Medellín, Colombia
+
+🌍 English B2
 
 ---
 
